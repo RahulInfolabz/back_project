@@ -67,7 +67,8 @@ app.use(cors({
     "http://localhost:5173",
     "http://localhost:5174",
     "https://your-frontend.onrender.com",
-    "https://front-project-r0xq.onrender.com" // ← replace with your actual frontend URL
+    "https://front-project-r0xq.onrender.com", // ← replace with your actual frontend URL
+    "https://admin-project-tdx8.onrender.com"
   ],
   credentials: true,
   methods: ["GET", "POST", "PUT", "DELETE"],
